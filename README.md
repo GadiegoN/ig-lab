@@ -23,6 +23,12 @@ Projeto construido no evento Ignite Lab | React da Rocketseat.
 
 ![preview2](./.github/preview2.png)
 
+## Figma Design System
+
+> Link [Design](https://www.figma.com/file/y97FPqsKL8ICjgZa1GQpti/Ignite-Lab-Design-System?node-id=0%3A1)
+
+![preview2](./.github/preview3.png)
+
 ## Curso
 
 Rocketseat / Educador: Diego Fernandes.
