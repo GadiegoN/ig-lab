@@ -13,6 +13,10 @@ Projeto construido no evento Ignite Lab | React da Rocketseat.
 - CSS (tailwind)
 - Git e Github
 
+## Componentes documentados
+
+![preview2](./.github/preview2.png)
+
 ## Curso
 
 Rocketseat / Educador: Diego Fernandes.
