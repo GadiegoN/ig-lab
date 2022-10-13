@@ -12,6 +12,10 @@ Projeto construido no evento Ignite Lab | React da Rocketseat.
 - Storybook
 - CSS (tailwind)
 - Git e Github
+- Figma
+- Radix-ui
+- Clsx
+- Workflows
 
 ## Componentes documentados
 
