@@ -27,7 +27,7 @@ Projeto construido no evento Ignite Lab | React da Rocketseat.
 
 > Link [Design](https://www.figma.com/file/y97FPqsKL8ICjgZa1GQpti/Ignite-Lab-Design-System?node-id=0%3A1)
 
-![preview2](./.github/preview3.png)
+![preview3](./.github/preview3.png)
 
 ## Curso
 
