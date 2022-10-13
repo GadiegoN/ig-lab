@@ -1,3 +1,5 @@
+const { config } = require("@storybook/addon-actions");
+
 module.exports = {
   "stories": [
     "../src/**/*.stories.mdx",
@@ -6,7 +8,8 @@ module.exports = {
   "addons": [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
-    "@storybook/addon-interactions"
+    "@storybook/addon-interactions",
+    '@storybook/addon-a11y'
   ],
   "framework": "@storybook/react",
   "core": {
@@ -15,8 +18,8 @@ module.exports = {
   "features": {
     "storyStoreV7": true
   },
-  viteFinal: (config, { configType }) => {
-    if (configType === 'PRODUCTION') {
+  viteFinal: (config, { configType}) => {
+    if (configType == 'PRODUCTION') {
       config.base = '/ig-lab/'
     }
 
