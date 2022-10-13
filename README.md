@@ -15,6 +15,8 @@ Projeto construido no evento Ignite Lab | React da Rocketseat.
 
 ## Componentes documentados
 
+> Link [Documento](https://gadiegon.github.io/ig-lab/?path=/story/components-checkbox--default)
+
 ![preview2](./.github/preview2.png)
 
 ## Curso
