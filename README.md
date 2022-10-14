@@ -29,6 +29,10 @@ Projeto construido no evento Ignite Lab | React da Rocketseat.
 
 ![preview3](./.github/preview3.png)
 
+## Teste Visual utilizando Jest 
+
+![preview](./.github/preview4.png)
+
 ## Curso
 
 Rocketseat / Educador: Diego Fernandes.
